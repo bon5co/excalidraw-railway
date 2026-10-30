@@ -1,5 +1,9 @@
 # excalidraw-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/excalidraw-or-just-updated-whiteboard-wh?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Excalidraw template](https://railway.com/deploy/excalidraw-or-just-updated-whiteboard-wh?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Wrapper image for deploying [Excalidraw](https://github.com/excalidraw/excalidraw) on
 [Railway](https://railway.com) with a **private collaboration server**.
 
